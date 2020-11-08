@@ -1,2 +1,2 @@
 # Python-WebScrapper_NomadCoder
-Yeah! Its' a ordinary web scrapper!
+Yeah! It's an ordinary web scrapper!
